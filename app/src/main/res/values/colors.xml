@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorNumbersButton">#e8e8e8</color>
+    <color name="colorNumbersButtonF">#d1d1d1</color>
+    <color name="colorNumbersButtonText">#000000</color>
+
+    <color name="colorOperationButton">#00fff7</color>
+    <color name="colorOperationButtonF">#00ded7</color>
+    <color name="colorOperationButtonText">#ffffff</color>
+
+    <color name="colorOperationButton2">#c9c8c8</color>
+    <color name="colorOperationButton2F">#a4a4a4</color>
+    <color name="colorOperationButton2Text">#1e1e1e</color>
+
+    <color name="colorTextView">#2b2b2b</color>
+    <color name="colorTextViewText">#ffffff</color>
+</resources>
